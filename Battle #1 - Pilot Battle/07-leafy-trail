@@ -1,0 +1,12 @@
+<style>*>*{background:
+  radial-gradient(1in at 100%100%,#F3AC3C 25vw,#0000 0)-128px -128px,
+  radial-gradient(1in at 0 0,#F3AC3C 25vw,#0000 0)-172px -172px,
+  conic-gradient(#F3AC3C,#F3AC3C)175px 170px/55px 55px no-repeat,
+  conic-gradient(#F3AC3C,#F3AC3C)270px 75px/55px 55px no-repeat,
+  radial-gradient(1in at 100%100%,#998235 25vw,#0000 0)-178px -128px,
+  conic-gradient(#998235,#998235)125px 170px/55px 55px no-repeat,
+  conic-gradient(#998235,#998235)222px 75px/55px 55px no-repeat,
+  radial-gradient(1in at 100%100%,#1A4341 25vw,#0000 0)-228px -128px,
+  conic-gradient(#1A4341,#1A4341)75px 170px/55px 55px no-repeat,
+  conic-gradient(#1A4341,#1A4341)172px 75px/55px 55px no-repeat,
+  #0B2429
