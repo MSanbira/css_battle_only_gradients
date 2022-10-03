@@ -1,2 +1,2 @@
-# css_battle_only_gradients
-CSS Battle solutions using only gradients
+# CSS Battle only gradients
+A collaction of CSS Battle target solutions using only gradients
