@@ -1,0 +1,15 @@
+<style>*>*{
+  --a:radial-gradient(10px,#060F55 1in,#0000);
+  --b:radial-gradient(1q at top,#0000 10px,#060F55 0 30px,#0000);
+  background:
+  var(--a)60px -90px,
+  var(--a)20px -90px,
+  var(--a)-20px -90px,
+  var(--a)-60px -90px,
+  var(--b)-40px 50vh,
+  var(--b)40px 50vh,
+  var(--b)50%50vh,
+  radial-gradient(70px at 50% 5px,#060F55 1in,#0000)50%175px,
+  repeating-linear-gradient(90deg,#060F55 0 5vw,#6592CF 0 10vw)50%33%/35%41% no-repeat,
+  conic-gradient(#060F55,#060F55)50%100%/5vw 75% no-repeat,
+  #6592CF
