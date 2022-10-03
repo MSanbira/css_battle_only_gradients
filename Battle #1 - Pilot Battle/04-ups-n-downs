@@ -1,0 +1,9 @@
+<style>*>*{
+--a:#F7EC7D 50px,#0000;
+background:
+radial-gradient(50px at 50%25vw,var(--a)),
+radial-gradient(50px at 25%50vw,var(--a)),
+radial-gradient(50px at 75%50vw,var(--a)),
+linear-gradient(90deg,#F7EC7D 25vw,#62306D 0 50vw,#F7EC7D 0)50px 150px/75vw 60px no-repeat,
+conic-gradient(#F7EC7D,#F7EC7D)50%90px/25vw 60px no-repeat,
+#62306D
