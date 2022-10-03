@@ -1,0 +1,5 @@
+<style>*>*{background:
+radial-gradient(70px,#84271C 25px,#0000 0 50px,#ECA03D 0 70px,#0000),
+radial-gradient(50px at top,#0000 30px,#ECA03D 0 50px, #0000)-25vw 50vh,
+radial-gradient(50px at bottom,#0000 30px,#ECA03D 0 50px, #0000)25vw 50vh,
+#191210
