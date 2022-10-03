@@ -1,0 +1,9 @@
+<style>*>*{
+--a:radial-gradient(10px,#D86F45 1in,#0000);
+--b:radial-gradient(50px at top,#0000 30px,#D86F45 0 50px, #0000);
+background:
+var(--b)-20vw 50vh,
+var(--b)20vw 50vh,
+radial-gradient(50px at bottom,#0000 30px,#D86F45 0 50px, #0000)0 50vh,
+var(--a)30vw,var(--a)-30vw,
+#F5D6B4
