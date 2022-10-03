@@ -1,0 +1,7 @@
+<style>*>*{background:
+conic-gradient(from 180deg,#998235 25%, #0000 0)70%20%/25%25vw no-repeat,
+conic-gradient(from 180deg,#F3AC3C 25%, #0000 0)50%/26%26vw no-repeat,
+radial-gradient(60px at 140px 70%,#F3AC3C 1in,#0000),
+radial-gradient(60px,#998235 1in,#0000),
+radial-gradient(60px at 260px 30%,#F3AC3C 1in,#0000),
+#0B2429
