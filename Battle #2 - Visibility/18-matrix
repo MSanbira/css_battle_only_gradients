@@ -1,0 +1,17 @@
+<style>*>*{
+--a:radial-gradient(80px at 100%100%,#F09462 1in,#0000);
+--b:radial-gradient(80px at 100%100%,#F5D6B4 1in,#0000);
+background:
+var(--a)90px 90px,
+var(--b)190px 90px,
+var(--a)290px 90px,
+var(--b)390px 90px,
+var(--b)90px 190px,
+var(--a)190px 190px,
+var(--b)290px 190px,
+var(--a)390px 190px,
+var(--a)90px 290px,
+var(--b)190px 290px,
+var(--a)290px 290px,
+var(--b)390px 290px,
+#5C434C
