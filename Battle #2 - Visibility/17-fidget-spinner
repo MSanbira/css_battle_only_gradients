@@ -1,0 +1,10 @@
+<style>*>*{
+--a:radial-gradient(40px,#F5BB9C 30px,#09042A 0 40px,#0000);
+--b:radial-gradient(40px,#0000 30px,#E78481 0 40px,#0000);
+background:
+var(--a)50%-53px,
+var(--a)50%53px,
+var(--b)-60px 50%,
+var(--b)60px 50%,
+conic-gradient(#E78481,#E78481)50%/14%20% no-repeat,
+#09042A
