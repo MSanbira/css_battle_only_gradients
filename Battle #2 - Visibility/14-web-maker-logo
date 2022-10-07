@@ -1,0 +1,6 @@
+<style>*>*{background:
+conic-gradient(from -30deg at 50%100%,#FF6D00 60deg,#0000 0)-65px 50%/100%130px no-repeat,
+conic-gradient(from -30deg at 50%100%,#FD4602 60deg,#0000 0)-45px 50%/100%130px no-repeat,
+conic-gradient(from 150deg at 50%0,#FD4602 60deg,#0000 0)45px 50%/100%130px no-repeat,
+conic-gradient(from 150deg at 50%0,#FF6D00 60deg,#0000 0)65px 50%/100%130px no-repeat,
+#F2F2B6
