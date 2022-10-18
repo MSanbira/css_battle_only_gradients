@@ -1,0 +1,11 @@
+<style>*>*{
+--a:conic-gradient(from 51.5deg,#0000 257deg,#293D7E 0);
+--b:conic-gradient(from 51.5deg,#0000 257deg,#6592CF 0);
+background:
+var(--b)0 19px/100%50vw no-repeat,
+var(--a)0/100%50vw no-repeat,
+var(--b)0 69px/100%50vw no-repeat,
+var(--a)0 25vw/100%50vw no-repeat,
+var(--b)0 119px/100%50vw no-repeat,
+var(--a)0 50vh/100%50vw no-repeat,
+#6592CF
