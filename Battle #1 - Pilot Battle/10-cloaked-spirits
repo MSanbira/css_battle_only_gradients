@@ -1,6 +1,5 @@
 <style>*>*{background:
-radial-gradient(50px at 25vw 50vw,#E38F66 30px,#AA445F 0 50px,#0000),
-radial-gradient(50px at 75vw 50vw,#E38F66 30px,#AA445F 0 50px,#0000),
+radial-gradient(50px,#E38F66 30px,#AA445F 0 50px,#0000)0 50px/50%,
 radial-gradient(50px at 50%25vw,#AA445F 30px,#E38F66 0 50px,#0000),
 linear-gradient(90deg,#62306D 50px,#0000 0 150px,#F7EC7D 0 250px,#0000 0 350px,#62306D 0)0 25vw/100%50vw no-repeat,
 linear-gradient(#62306D 50vw,#F7EC7D 0
