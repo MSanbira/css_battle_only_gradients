@@ -1,0 +1,19 @@
+<style>*>*{
+  --a:radial-gradient(25px,#998235 1in,#0000);
+  --b:radial-gradient(25px,#F3AC3C 1in,#0000);
+  --c:conic-gradient(#998235,#998235);
+  --d:conic-gradient(#F3AC3C,#F3AC3C);
+  background:
+    var(--a)-105px -35px,
+    var(--a)-35px 35px,
+    var(--a)35px -35px,
+    var(--a)105px 35px,
+    var(--b)-105px 35px,
+    var(--b)-35px -35px,
+    var(--b)35px 35px,
+    var(--b)105px -35px,
+    var(--c)210px 115px/50px 25px no-repeat,
+    var(--c)280px 160px/50px 25px no-repeat,
+    var(--d)140px 115px/50px 25px no-repeat,
+    var(--d)70px 160px/50px 25px no-repeat,
+    #1A4341
