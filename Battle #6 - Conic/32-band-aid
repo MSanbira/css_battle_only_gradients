@@ -1,0 +1,9 @@
+<style>*>*{background:
+  conic-gradient(from 45deg,#0000 75%,#fff 0)0 -35px,
+  conic-gradient(from 225deg,#0000 75%,#fff 0)0 35px,
+  conic-gradient(from 45deg,#0000 75%,#fff 0)-90px -52px,
+  conic-gradient(from 45deg,#0000 75%,#fff 0)90px -52px,
+  conic-gradient(from 225deg,#0000 75%,#fff 0)-90px 52px,
+  conic-gradient(from 225deg,#0000 75%,#fff 0)90px 52px,
+  conic-gradient(from 45deg,#fff 25%,#F3AC3C 0 50%,#0000 0 75%,#A3A368 0)35px,
+  conic-gradient(from 45deg,#FBE18C 25%,#A3A368 0 50%,#fff 0 75%,#F3AC3C 0)-35px
