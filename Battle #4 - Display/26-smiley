@@ -1,0 +1,3 @@
+<style>*>*{
+--a:radial-gradient(60px at bottom,#0000 40px,#060F55 0 60px, #0000);
+background:var(--a)-25vw 25vw,var(--a)25vw 25vw,radial-gradient(60px at top,#0000 40px,#060F55 0 60px, #0000)0-25vw,#6592CF
