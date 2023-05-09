@@ -1,0 +1,8 @@
+<style>*>*{--a:radial-gradient(50px,#F7EC7D 1in,#0000);background:
+  var(--a)-70px,
+  var(--a)70px,
+  radial-gradient(50px,#AA445F 1in,#0000)-70px -50px,
+  radial-gradient(50px,#E38F66 1in,#0000)70px 50px,
+  conic-gradient(#AA445F,#AA445F)80px 25vw/25%20% no-repeat,
+  conic-gradient(#E38F66,#E38F66)220px 150px/25%20% no-repeat,
+  #62306D
