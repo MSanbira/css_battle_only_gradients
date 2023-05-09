@@ -1,0 +1,6 @@
+<style>*>*{
+--a:radial-gradient(11q,#D86F45 1in,#0000);
+background:
+radial-gradient(1in at bottom,#0000 5vw,#D86F45 0 42q,#0000 0 64q,#D86F45 0 85q,#0000 0)0 50vh,
+radial-gradient(1in at top,#0000 42q,#D86F45 0 64q,#0000 0 85q,#D86F45 0 25vw,#0000 0)-5vw 50vh,
+var(--a)-32q,var(--a)307q,#F5D6B4
